@@ -30,7 +30,6 @@ namespace gapgyan.Controllers
         public ActionResult hardening()
         {
 
-
             return View();
         }
     }
