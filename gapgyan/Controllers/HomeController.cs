@@ -32,5 +32,10 @@ namespace gapgyan.Controllers
 
             return View();
         }
+        public ActionResult test()
+        {
+
+            return View("test");
+        }
     }
 }
